@@ -1,0 +1,13 @@
+
+*** These modified files were found in JOE when it aborted on Wed Nov 11 20:05:09 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/socs/Downloads/test_bits2ll.c
+/home/socs/cis2430/Assignment2/src/test/java/Assignment2/AppTest.java
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
